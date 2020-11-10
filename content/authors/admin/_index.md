@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 role: PhD Student
-guide: Dr. R. Vijayakumar, Associate Professor, Department of Ocean Engineering, Indian Institute of Technology Madras
+Advisor: Dr. R. Vijayakumar, Associate Professor, Department of Ocean Engineering, Indian Institute of Technology Madras
 
 # Organizations/Affiliations
 organizations:
@@ -54,9 +54,9 @@ social:
   link: https://github.com/GuggillaMukesh
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "guggillamukesh@gmail.com"
