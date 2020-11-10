@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position
 role: PhD Student
+guide: Dr. R. Vijayakumar, Associate Professor, Department of Ocean Engineering, Indian Institute of Technology Madras
 
 # Organizations/Affiliations
 organizations:
