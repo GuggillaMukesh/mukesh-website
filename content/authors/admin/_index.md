@@ -68,4 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Mukesh Guggilla is a PhD student of Ocean Engineering at the Indian Institute of Technology Madras. His research interests include hydrodynamics, naval architecture, underwater gliders, numerical analysis. Currently working on parametric analysis of the hydrodynamic characteristics of Underwater Gliders.
+Mukesh Guggilla is a PhD student of Ocean Engineering at the Indian Institute of Technology Madras. 
+His research interests include hydrodynamics, naval architecture, underwater gliders, numerical analysis.
+Currently working on numerical and experimental analysis of the hydrodynamic characteristics of Underwater Gliders.
