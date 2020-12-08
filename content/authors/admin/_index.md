@@ -73,4 +73,3 @@ His research interests include hydrodynamics, naval architecture, underwater gli
 Currently working on numerical and experimental analysis of the hydrodynamic characteristics of Underwater Gliders.
 
 Research Advisor: Dr. R. Vijayakumar, Associate Professor, Department of Ocean Engineering, Indian Institute of Technology Madras
-Testing... for changes...
