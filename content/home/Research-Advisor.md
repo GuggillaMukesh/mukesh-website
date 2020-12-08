@@ -10,8 +10,6 @@ weight: 20
 
 title: Research Advisor
 ---
-# to make a pragraph and link to a webpage you can use the following 
-# <p><a href="http://www.doe.iitm.ac.in/vijay2028/" target="_blank">Dr. R. Vijayakumar</a></p>
 <a href="http://www.doe.iitm.ac.in/vijay2028/" target="_blank">Dr. R. Vijayakumar</a><br>
 Associate Professor in Ocean Engineering <br>
 Indian Institute of Technology Madras <br>
