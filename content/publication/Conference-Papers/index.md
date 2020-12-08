@@ -29,8 +29,8 @@ tags:
 featured: true
 
 links:
- - name: Link
- url: http://www.marhydro.com/
+- name: Link
+  url: http://www.marhydro.com/
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -95,7 +95,7 @@ tags:
 featured: true
 
 links:
-- name: Link to document
+- name: Link
   url: https://www.onepetro.org/conference-paper/ISOPE-I-19-513
 url_pdf: ''
 url_code: ''
