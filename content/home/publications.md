@@ -8,12 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "•	"CFD Study of the Hydrodynamic Characteristics of Blended Winged Unmanned Underwater Gliders", International Ocean and Polar Engineering Conference (ISOPE), "Mukesh Guggilla and R Vijayakumar", 2019, Vol.1, Pages 1547-1552, ISBN 978-1 880653 85-2; ISSN1098-6189. 
-•	"Study on the Hydrodynamic Performance of Unmanned Underwater Gliders with Varying Wing Sections Using CFD", International Conference on Computational and Experimental Marine Hydrodynamics (MARHY), "Mukesh Guggilla and R Vijayakumar", 2018, Pages 264-269, ISBN: 978-93-80689-30-2.
-•	"Autonomous Underwater Gliders – A Review of Development and Design and a Proposed Model for Virtual Mooring", International Conference on Coastal and Inland Water Systems, CIS, 2019, Dec 16-18, Mukesh Guggilla and Vijayakumar R, 2019/28, pp1-8, Bhubaneswar.
-•	"Numerical Study on the Hydrodynamics associated with Underwater Gliders", International Maritime Research Confluence, IMRC-IIRE, 2020, Feb 13-14, Mukesh Guggilla and Vijayakumar R, 2020/6.
-•	"CFD Investigation on the Hydrodynamic Characteristics of Blended Wing Unmanned Underwater Gliders with Emphasis on the Control Surfaces", OMAE2020-19280, Mukesh Guggilla and Vijayakumar R.       
-"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
