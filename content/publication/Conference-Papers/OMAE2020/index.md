@@ -25,7 +25,7 @@ abstract: Underwater Gliders are unique buoyancy propelled oceanographic profili
 summary: The sweep angle of the main wing of a blended wing autonomous underwater glider configuration is varied as 10⁰, 15⁰, 30⁰, 45⁰ and 60⁰ and the resulting hull forms are numerically simulated to arrive at an optimum Lift-to-drag ratio for increased endurance.
 
 tags:
-- Source Themes
+- Conference Papers
 featured: true
 
 links:
