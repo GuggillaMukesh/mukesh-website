@@ -28,14 +28,6 @@ date_format = "Jan 2006"
   date_end = "2021-07-01"
   description = ""
 
-[[item]]
-  organization = "Ministry of Human Resource Development, Government of India"
-  organization_url = "https://research.iitm.ac.in/"
-  title = "Half-Time Research Assistant"
-  url = ""
-  certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = "2018-06-30"
-  description = ""
+
 
 +++
