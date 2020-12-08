@@ -20,5 +20,13 @@ email_form = 1
 # Netlify form settings.
 [netlify]
   captcha = true  # Enable CAPTCHA challenge to reduce spam?
+  
+  window.onload = function() {
+    var $recaptcha = document.querySelector('#g-recaptcha-response');
+
+    if($recaptcha) {
+        $recaptcha.setAttribute("required", "required");
+    }
+};
 +++
 
