@@ -25,7 +25,7 @@ abstract: Hydrodynamic performance of the gliders having varying Wing sections (
 summary:  Hydrodynamic performance of the gliders having varying Wing sections (Flat plate and N0012 cross sections) and the comparison with the Nakamura’s (2013) Tsukuyomi model
 
 tags:
-- Source Themes
+- Conference Papers
 featured: false
 
 links:
