@@ -15,22 +15,28 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "ship"
+  icon_pack = "fas"
+  name = "Naval Architect"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "water"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Fluid Dynamics"
+  description = ""  
   
-[[feature]]
-  icon = "camera-retro"
+  [[feature]]
+  icon = "fish"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Underwater Gliders"
+  description = ""  
+  
+# [[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Photography"
+#  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
