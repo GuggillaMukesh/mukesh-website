@@ -25,7 +25,7 @@ abstract: Underwater Gliders, primarily being used for oceanographic data collec
 summary: This paper deals with the review of the Autonomous Underwater gliders (AUGs) over the course of time with respect to the design and maneuvering attitudes produced, the hydrodynamics of the hull-forms evolved for particular design applications
 
 tags:
-- Source Themes
+- Conference Papers
 featured: false
 
 links:
