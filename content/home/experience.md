@@ -26,5 +26,5 @@ date_format = "Jan 2006"
   location = "Tamilnadu"
   date_start = "2017-07-01"
   date_end = "2021-07-10"
-  description = """Implemented GPU accelerated 3-D smoothed particle hydrodynamics (SPH) method in multiple projects and performed validation assessment for the sloshing and slamming fluid flows."""
+  description = """"""
 +++
