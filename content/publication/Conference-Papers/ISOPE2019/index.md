@@ -25,7 +25,7 @@ abstract: In recent years, underwater technology is being developed for coastal 
 summary: CFD results obtained from various hull-forms leading to the evolution of BWUUGs focusing on the wings of the glider by comparing the lift-to-drag ratios of classical hull-forms with that of the BWUUGs
 
 tags:
-- Source Themes
+- Conference Papers
 featured: true
 
 links:
