@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 role: PhD Student
-Advisor: Dr. R. Vijayakumar, Associate Professor, Department of Ocean Engineering, Indian Institute of Technology Madras
+
 
 # Organizations/Affiliations
 organizations:
@@ -72,5 +72,5 @@ Mukesh Guggilla is a PhD student of Ocean Engineering at the Indian Institute of
 His research interests include hydrodynamics, naval architecture, underwater gliders, numerical analysis.
 Currently working on numerical and experimental analysis of the hydrodynamic characteristics of Underwater Gliders.
 
-
+Research Advisor: Dr. R. Vijayakumar, Associate Professor, Department of Ocean Engineering, Indian Institute of Technology Madras
 Testing... for changes...
