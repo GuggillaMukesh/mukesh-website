@@ -12,6 +12,6 @@ title: Research Advisor
 ---
 
 Dr. R. Vijayakumar <br>
-Associate Professor in Ocean Engineering
-Indian Institute of Technology Madras
-vijay2028@iitm.ac.in
+Associate Professor in Ocean Engineering <br>
+Indian Institute of Technology Madras <br>
+vijay2028@iitm.ac.in <br>
