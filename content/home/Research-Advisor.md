@@ -6,12 +6,12 @@ widget: 'github.GuggillaMukesh.Research-Advisor'
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 20
 
-title: Dr. R. Vijayakumar
+title: Research Advisor
 ---
 
-Dr. R. Vijayakumar 
-vijay2028@iitm.ac.in
+Dr. R. Vijayakumar <br>
 Associate Professor in Ocean Engineering
 Indian Institute of Technology Madras
+vijay2028@iitm.ac.in
