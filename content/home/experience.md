@@ -27,4 +27,23 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = "2021-07-10"
   description = """"""
+  
+ [[experience]]
+  title = "Shipyard Trainee in Construction"
+  company = "Larsen & Toubro Shipbuilding Limited"
+  company_url = "https://www.lntshipbuilding.com/"
+  location = "Tamilnadu"
+  date_start = "2015-05-01"
+  date_end = "2015-07-01"
+  description = """"""
+  
+  [[experience]]
+  title = "Industrial Trainee"
+  company = "Cochin Shipyard Limited"
+  company_url = "https://cochinshipyard.com/"
+  location = "Tamilnadu"
+  date_start = "2014-05-01"
+  date_end = "2014-06-01"
+  description = """"""
+  
 +++
