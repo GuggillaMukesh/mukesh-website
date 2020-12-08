@@ -10,7 +10,7 @@ weight: 20
 
 title: Research Advisor
 ---
-<p style="text-align:center;"><a href="http://www.doe.iitm.ac.in/vijay2028/" target="_blank">Dr. R. Vijayakumar</a><br>
-Associate Professor in Ocean Engineering <br>
-Indian Institute of Technology Madras <br></p>
-<p style="text-align:center;">vijay2028@iitm.ac.in <br></p>
+<h1 style="text-align:center;"><a href="http://www.doe.iitm.ac.in/vijay2028/" target="_blank">Dr. R. Vijayakumar</a></h1>
+<p style="text-align:center;">Associate Professor in Ocean Engineering <br>
+Indian Institute of Technology Madras <br>
+vijay2028@iitm.ac.in <br></p>
