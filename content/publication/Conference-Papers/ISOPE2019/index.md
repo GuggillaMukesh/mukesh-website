@@ -30,7 +30,7 @@ featured: true
 
 links:
 - name: Link
-  url: https://www.onepetro.org/conference-paper/ISOPE-I-19-513
+  url: https://drive.google.com/file/d/1eEI1y2kecklra6BejpfDtshAgtHPvITO/view?usp=sharing/
 url_pdf: ''
 url_code: ''
 url_dataset: ''
