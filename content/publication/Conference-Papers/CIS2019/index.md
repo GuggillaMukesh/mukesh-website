@@ -30,7 +30,7 @@ featured: false
 
 links:
 - name: Link
-  url: http://cis2019.frostodisha.com/
+  url: https://drive.google.com/file/d/1Z7PHG9Ur9yHjZkEem9su4jrdOGy46BqD/view?usp=sharing/
 url_pdf: ''
 url_code: ''
 url_dataset: ''
