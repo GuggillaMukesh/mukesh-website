@@ -29,7 +29,9 @@ tags:
 featured: true
 
 links:
-url_pdf: 'https://asme.pinetec.com/omae2020/data/pdfs/trk-6/OMAE2020-19280.pdf'
+- name: Link
+  url: https://drive.google.com/file/d/1wdmf6aRd42vmPgVHVJxPAPGPHyr3piUE/view?usp=sharing/
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
